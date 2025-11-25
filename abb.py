@@ -1,4 +1,4 @@
 print("hiii hello")
-a=1
-b=2
+a=122
+b=222
 print(a+b)
